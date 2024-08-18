@@ -1,3 +1,5 @@
+#UML SOLUCIÓN
+![](https://github.com/NicolasOrtiz05/TALLER2_SOFTWARE_PUNTO1/blob/master/Imagen%20de%20WhatsApp%202024-08-15%20a%20las%2023.20.00_c3013928.jpg)
 # AudioPlayer
 
 ### Descripción del Problema:
